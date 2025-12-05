@@ -83,3 +83,6 @@ if __name__ == "__main__":
     metrics = summarize_cac(df_cac)
     plot_trend(df_cac)
     plot_vs_target(df_cac)
+
+    # Small update for PR validation: ensuring analysis file is part of this pull request.
+
